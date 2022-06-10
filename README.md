@@ -22,9 +22,10 @@ The purpose of this project is to be proactive in preparing for the upcoming "si
 
 ## Summary
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The Silver Tsunami is expected to wipe out a large portion of Pewlett-Hackard's workforce.  There are not enough employees in the Mentorship Program to cover the large numbers of retiring employees.
+
+Currently, the Mentorship Program eligibility is defined for employees with birthdates falling in the year 1965. This limits the pool of employees that can participate.  Opening the Mentorship Program to more employees will help cover this gap.  For example, capturing employees with birth years between 1965 and 1975 creates more participants and flexibility for advancement.
+
+There may not be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  However, by evaluating the positions that are being lost, along with re-structuring of current job functions, it may be possible to fill the gaps created by those retiring.  This would be a large-scale job evaluation program, but it will be necessary to keep Pewlett Hackard running smoothly during this time of transition.
 
 ## Resources
