@@ -29,3 +29,7 @@ Currently, the Mentorship Program eligibility is defined for employees with birt
 There may not be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  However, by evaluating the positions that are being lost, along with re-structuring of current job functions, it may be possible to fill the gaps created by those retiring.  This would be a large-scale job evaluation program, but it will be necessary to keep Pewlett Hackard running smoothly during this time of transition.
 
 ## Resources
+Data Sources: employees.csv; titles.csv; dept_emp.csv; unique_titles.csv, retirement_titles.csv; retiring_titles.csv; mentorship_eligibility.csv
+
+Software: PostgreSQL 12.11.1; pgAdmin 4
+
